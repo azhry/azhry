@@ -15,11 +15,11 @@ I'm a software developer who is passionately learning about programming and comp
 - MySQL, 
 - and PostgreSQL 
 
-<center>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azhry&&show_icons=true&&theme=merko" alt="Azhary Arliansyah's Github Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhry&&layout=compact&&theme=merko" alt="Azhary Arliansyah's Top Languages"/>
-</center>
+</div>
 
 <!--
 **azhry/azhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
