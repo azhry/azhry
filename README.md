@@ -15,7 +15,9 @@ I'm a software developer who is passionately learning about programming and comp
 - MySQL, 
 - and PostgreSQL 
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=azhry&&show_icons=true)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=azhry&&show_icons=true&&theme=merko)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhry&&layout=compact&&theme=merko)
 
 <!--
 **azhry/azhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
