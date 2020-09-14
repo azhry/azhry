@@ -1,25 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer who is passionately learning about programming and computer science stuff. Currently volunteering to [palembangdigital.org](https://palembangdigital.org) for making better digital atmosphere on Palembang City. If you have some interesting open source projects that need someone to contribute to, kindly reach me on [my linkedin profile](https://www.linkedin.com/in/azhary-arliansyah), maybe i can help. I'm experienced in: 
-- React JS, 
-- React Redux, 
-- Ionic Framework (Angular Typescript), 
-- Vanilla JavaScript, 
-- CSS, 
-- Sass, 
-- Express JS, 
-- Node JS, 
-- Python, 
-- PHP, 
-- CodeIgniter, 
-- MySQL, 
-- and PostgreSQL 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azhry&&show_icons=true&&theme=merko" alt="Azhary Arliansyah's Github Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhry&&layout=compact&&theme=merko" alt="Azhary Arliansyah's Top Languages"/>
-</div>
+I'm a software developer who is passionately learning about programming and computer science stuff. Currently volunteering to [palembangdigital.org](https://palembangdigital.org) for making better digital atmosphere on Palembang City. If you have some interesting open source projects that need someone to contribute to, kindly reach me on [my linkedin profile](https://www.linkedin.com/in/azhary-arliansyah), maybe i can help.
 
 <!--
 **azhry/azhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
