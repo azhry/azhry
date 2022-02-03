@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer who is passionately learning about programming and computer science stuff. Currently volunteering to [palembangdigital.org](https://palembangdigital.org) for making better digital atmosphere on Palembang City. If you have some interesting open source projects that need someone to contribute to, kindly reach me on [my linkedin profile](https://www.linkedin.com/in/azhary-arliansyah), maybe i can help.
+I'm a software developer who is passionately learning about programming and computer science stuff. If you have some interesting open source projects that need someone to contribute to, kindly reach me on [my linkedin profile](https://www.linkedin.com/in/azhary-arliansyah), maybe i can help.
 
 <!--
 **azhry/azhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
