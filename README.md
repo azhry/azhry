@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer who is passionately learning about programming and computer science stuff. If you have some interesting open source projects that need someone to contribute to, kindly reach me on [my linkedin profile](https://www.linkedin.com/in/azhary-arliansyah), maybe i can help. Mainly use Go on back-end and Next JS on front-end.
+I'm a software engineer who enjoys learning about programming and computer science. If you have some interesting open source projects that need someone to contribute to, kindly reach me on [my linkedin profile](https://www.linkedin.com/in/azhary-arliansyah), maybe i can help. Mainly use Go on back-end and Next JS on front-end.
 
 Currently working on [Lyrid](https://www.lyrid.io) Platform-as-a-Service for deploying serverless application and managing cloud-agnostic Kubernetes cluster, using Go, Node JS, and Kubernetes SDK as its primary techstacks.
 
