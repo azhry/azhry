@@ -5,6 +5,7 @@ I'm a software engineer who enjoys learning about programming and computer scien
 Currently working on [Lyrid](https://www.lyrid.io) Platform-as-a-Service for deploying serverless application and managing cloud-agnostic Kubernetes cluster, using Go, Node JS, and [Kubernetes SDK](https://github.com/kubernetes/client-go) as its primary techstacks.
 
 🌱 My notable works include:
+- Developing multiple services for Lyrid Platform: [app.lyrid.io](https://app.lyrid.io/)
 - Contribute on developing [Lyrid Command-line (LC)](https://docs.lyrid.io/installation) for deploying serverless application on Lyrid platform
 - Contribute on developing [lc-static](https://www.npmjs.com/package/lc-static) npm package
 - Proof-of-concept the [Cluster API](https://cluster-api.sigs.k8s.io/introduction.html) on OpenStack cloud infrastructure to automate cluster provisioning for Biznet Gio. You can check it [here](https://github.com/azhry/openstack-cluster-api)
